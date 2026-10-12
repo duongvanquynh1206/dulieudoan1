@@ -1,0 +1,21 @@
+index,year,locale,metro_nonmetro,crime_type,rate_per_100k
+0,2014,US,"United States, total",Violent crime,375.7
+1,2014,US,Metropolitan Statistical Areas,Violent crime,395.7
+2,2014,US,"Cities outside of metropolitan areas (i.e., rural cities & towns)",Violent crime,376.0
+3,2014,US,Nonmetropolitan (rural) counties ,Violent crime,179.5
+4,2014,US,"United States, total",Murder and non-negligent manslaughter,4.5
+5,2014,US,Metropolitan Statistical Areas,Murder and non-negligent manslaughter,4.7
+6,2014,US,"Cities outside of metropolitan areas (i.e., rural cities & towns)",Murder and non-negligent manslaughter,3.9
+7,2014,US,Nonmetropolitan (rural) counties ,Murder and non-negligent manslaughter,3.0
+8,2014,US,"United States, total",Rape (revised definition),36.6
+9,2014,US,Metropolitan Statistical Areas,Rape (revised definition),36.0
+10,2014,US,"Cities outside of metropolitan areas (i.e., rural cities & towns)",Rape (revised definition),51.6
+11,2014,US,Nonmetropolitan (rural) counties ,Rape (revised definition),31.6
+12,2014,US,"United States, total",Robbery,102.2
+13,2014,US,Metropolitan Statistical Areas,Robbery,115.2
+14,2014,US,"Cities outside of metropolitan areas (i.e., rural cities & towns)",Robbery,49.4
+15,2014,US,Nonmetropolitan (rural) counties ,Robbery,11.1
+16,2014,US,"United States, total",Aggravated assault,232.5
+17,2014,US,Metropolitan Statistical Areas,Aggravated assault,239.8
+18,2014,US,"Cities outside of metropolitan areas (i.e., rural cities & towns)",Aggravated assault,271.2
+19,2014,US,Nonmetropolitan (rural) counties ,Aggravated assault,133.8

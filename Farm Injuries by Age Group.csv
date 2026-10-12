@@ -1,0 +1,25 @@
+index,year,locale,age_group,youth_injuries
+0,2001,US,Under 10,9698
+1,2004,US,Under 11,9060
+2,2006,US,Under 12,6435
+3,2009,US,Under 13,4111
+4,2012,US,Under 14,4235
+5,2014,US,Under 15,3220
+6,2001,US,10-15 years,13368
+7,2004,US,10-15 years,10480
+8,2006,US,10-15 years,10159
+9,2009,US,10-15 years,6912
+10,2012,US,10-15 years,5766
+11,2014,US,10-15 years,5376
+12,2001,US,16-19 years,5977
+13,2004,US,16-19 years,7722
+14,2006,US,16-19 years,6049
+15,2009,US,16-19 years,4149
+16,2012,US,16-19 years,3443
+17,2014,US,16-19 years,3010
+18,2001,US,Unknown age,185
+19,2004,US,Unknown age,328
+20,2006,US,Unknown age,251
+21,2009,US,Unknown age,704
+22,2012,US,Unknown age,553
+23,2014,US,Unknown age,337

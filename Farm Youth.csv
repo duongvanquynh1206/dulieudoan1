@@ -1,0 +1,19 @@
+index,year,locale,living_group,youth
+0,2001,US,Household (lives on farm),1352948.0
+1,2004,US,Household (lives on farm),1256989.0
+2,2006,US,Household (lives on farm),1121392.0
+3,2009,US,Household (lives on farm),1033803.0
+4,2012,US,Household (lives on farm),955406.0
+5,2014,US,Household (lives on farm),892836.0
+6,2001,US,Hired,425317.0
+7,2004,US,Hired,337311.0
+8,2006,US,Hired,306734.0
+9,2009,US,Hired,230387.0
+10,2012,US,Hired,258835.0
+11,2014,US,Hired,265604.0
+12,2001,US,Household youth also working on farm,725006.6
+13,2004,US,Household youth also working on farm,698773.1
+14,2006,US,Household youth also working on farm,590496.9
+15,2009,US,Household youth also working on farm,518551.0
+16,2012,US,Household youth also working on farm,471954.0
+17,2014,US,Household youth also working on farm,453978.0

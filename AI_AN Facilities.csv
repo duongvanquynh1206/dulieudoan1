@@ -1,0 +1,9 @@
+index,year,locale,operator,facility_type,facilities
+0,2016,US,HIS,Hospitals,26.0
+1,2016,US,Tribal,Hospitals,19.0
+2,2016,US,HIS,Health Centers,59.0
+3,2016,US,Tribal,Health Centers,284.0
+4,2016,US,HIS,Alaska Village Clinics,
+5,2016,US,Tribal,Alaska Village Clinics,163.0
+6,2016,US,HIS,Health Stations,32.0
+7,2016,US,Tribal,Health Stations,79.0

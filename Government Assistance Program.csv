@@ -1,0 +1,9 @@
+index,year,locale,metro_nonmetro,participation_rate
+0,2009,US,Nonmetropolitan,0.216
+1,2010,US,Nonmetropolitan,0.243
+2,2011,US,Nonmetropolitan,0.248
+3,2012,US,Nonmetropolitan,0.248
+4,2009,US,US (All Areas),0.186
+5,2010,US,US (All Areas),0.202
+6,2011,US,US (All Areas),0.209
+7,2012,US,US (All Areas),0.213

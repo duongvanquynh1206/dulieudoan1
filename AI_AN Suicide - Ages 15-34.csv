@@ -1,0 +1,21 @@
+index,year,locale,race,rate_per_100k
+0,2006,US,All races,11.12
+1,2007,US,All races,11.33
+2,2008,US,All races,11.44
+3,2009,US,All races,11.45
+4,2010,US,All races,12.2
+5,2011,US,All races,12.75
+6,2012,US,All races,12.85
+7,2013,US,All races,12.91
+8,2014,US,All races,13.3
+9,2015,US,All races,14.14
+10,2006,US,American Indian or Alaska Native,19.59
+11,2007,US,American Indian or Alaska Native,19.88
+12,2008,US,American Indian or Alaska Native,20.64
+13,2009,US,American Indian or Alaska Native,21.32
+14,2010,US,American Indian or Alaska Native,18.33
+15,2011,US,American Indian or Alaska Native,16.06
+16,2012,US,American Indian or Alaska Native,18.76
+17,2013,US,American Indian or Alaska Native,19.41
+18,2014,US,American Indian or Alaska Native,17.87
+19,2015,US,American Indian or Alaska Native,20.52

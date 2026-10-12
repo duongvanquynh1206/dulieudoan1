@@ -1,0 +1,31 @@
+index,year,locale,youth_type,youth_injuries
+0,2001,US,Household youth,22144
+1,2004,US,Household youth,18801
+2,2006,US,Household youth,11654
+3,2009,US,Household youth,7715
+4,2012,US,Household youth,7784
+5,2014,US,Household youth,7469
+6,2001,US,Total injuries,29227
+7,2004,US,Total injuries,27591
+8,2006,US,Total injuries,22894
+9,2009,US,Total injuries,15876
+10,2012,US,Total injuries,13996
+11,2014,US,Total injuries,11942
+12,2001,US,Working household youth,6644
+13,2004,US,Working household youth,6384
+14,2006,US,Working household youth,3601
+15,2009,US,Working household youth,2585
+16,2012,US,Working household youth,1323
+17,2014,US,Working household youth,2972
+18,2001,US,Other working youth,2948
+19,2004,US,Other working youth,1772
+20,2006,US,Other working youth,2301
+21,2009,US,Other working youth,993
+22,2012,US,Other working youth,1416
+23,2014,US,Other working youth,1064
+24,2001,US,Household youth under 10 years old,7468
+25,2004,US,Household youth under 10 years old,6270
+26,2006,US,Household youth under 10 years old,3026
+27,2009,US,Household youth under 10 years old,2367
+28,2012,US,Household youth under 10 years old,3367
+29,2014,US,Household youth under 10 years old,1695
